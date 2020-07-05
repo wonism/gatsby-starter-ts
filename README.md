@@ -10,7 +10,7 @@ $ cd <<PROJECT_NAME>> && rm -r .git
 
 ## Start with gatsby-cli
 ```
-$ gatsby new <<PROJECT_NAME>> https://github.com/wonism/gatsby-stater-ts
+$ gatsby new <<PROJECT_NAME>> https://github.com/wonism/gatsby-starter-ts
 ```
 
 ## Development
